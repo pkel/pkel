@@ -31,4 +31,4 @@ teams can focus on their domain.
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/pkel-dev/
-- Email: [hi@pkel.dev](mailto:hi@pkel.dev)
+- Email: [patrik@pkel.dev](mailto:patrik@pkel.dev)
