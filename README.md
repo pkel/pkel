@@ -1,9 +1,12 @@
-# Hi, I'm Patrik
+# 👋 Hi, I'm Patrik!
+
+A **platform engineer** who enjoys making infrastructure disappear so
+teams can focus on their domain.
 
 ## Links
 
-- GitHub: https://github.com/pkel
-- Codeberg: https://codeberg.org/pkel
+- GitHub: https://github.com/pkel/
+- Codeberg: https://codeberg.org/pkel/
 - LinkedIn: https://www.linkedin.com/in/pkel-dev/
 - Research & PhD: https://informationsecurity.uibk.ac.at/people/patrik-keller/
 
